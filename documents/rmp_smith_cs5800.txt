@@ -1,0 +1,115 @@
+﻿Professor: Shesh
+Course: CS3100
+Quality: 2.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Mandatory | Grade: Not sure yet | Textbook: N/A
+Tags: Participation matters, Lecture heavy, Test heavy
+Date: Apr 21st, 2026
+Review: Lectures he taught never reflected the actual exams and the grading criteria sucks. Homework doesn't reflect exams either and the course is extremely lecture heavy.
+
+
+---
+
+
+Professor: Shesh
+Course: CS3100
+Quality: 4.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Textbook: Yes
+Tags: Participation matters, Caring, Accessible outside class
+Date: Apr 15th, 2026
+Review: Professor Shesh is a really nice professor. He is highly accessible and considerate to students. However, since this is the first time CS 3100 is taught, I felt the course design was rough around the edges. My rating for the course is nice professor, unpolished syllabus.
+
+
+---
+
+
+Professor: Shesh
+Course: CS5010
+Quality: 1.0 | Difficulty: 5.0
+For Credit: Yes | Attendance: Not Mandatory | Grade: A- | Textbook: N/A
+Tags: Tough grader, Lots of homework, Lecture heavy
+Date: Dec 19th, 2025
+Review: I do not recommend this professor. He does not respond to student emails, which makes communication very difficult. Grading is extremely strict, and doubts are not always explained clearly. There have also been instances of arriving late to class. Consider another professor who is more responsive and supportive.
+
+
+---
+
+
+Professor: Shesh
+Course: CS3500
+Quality: 4.0 | Difficulty: 3.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A- | Textbook: N/A
+Tags: Amazing lectures, Gives good feedback, Lots of homework
+Date: Jun 17th, 2025
+Review: Professor Shesh is an extremely good professor, he teaches from the heart, he's very strict and professional but one of the most reasonable professors I've ever seen. For the exam, he doesn't curve but adds points based on what the entire class struggled in, he gives extra late days and understands circumstances.This course's very hard but he helps
+
+
+---
+
+
+Professor: Shesh
+Course: CS3500
+Quality: 2.0 | Difficulty: 5.0
+For Credit: Yes | Attendance: Not Mandatory | Grade: Not sure yet | Textbook: N/A
+Tags: Tough grader, Lots of homework, Test heavy
+Date: Jun 16th, 2025
+Review: PREPARE YOURSELF TO TAKE THIS COURSE SERIOUSLY. This will be the hardest course you take in your schedule. Take with a better professor if you can.
+
+
+---
+
+
+Professor: Shesh
+Course: CS5010
+Quality: 4.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Not Mandatory | Grade: A | Textbook: Yes
+Tags: Tough grader, EXTRA CREDIT, Amazing lectures
+Date: Dec 19th, 2024
+Review: His lectures are nice but his assignment grading is weird. More than for design flaws, points were mostly deducted for not including certain things in submission. Sometimes he expects you to have done some things without explicitly mentioning in assignments.
+
+
+---
+
+
+Professor: Shesh
+Course: CS5010
+Quality: 1.0 | Difficulty: 5.0
+For Credit: Yes | Attendance: Not Mandatory | Grade: A+ | Textbook: N/A
+Tags: 
+Date: Nov 21st, 2024
+Review: TAs are not supervised properly.
+
+
+---
+
+
+Professor: Shesh
+Course: CS5010
+Quality: 1.0 | Difficulty: 5.0
+For Credit: Yes | Attendance: Not Mandatory | Grade: A+ | Textbook: N/A
+Tags: 
+Date: Nov 19th, 2024
+Review: He has designed the course in such a way that you make a lot of mistakes but also end up learning well from them. The problem is that the grading scheme has been designed to have minimal room for error. Those same mistakes will bring your grade down a lot. For a design course, this course isn't designed very well.
+
+
+---
+
+
+Professor: Shesh
+Course: CS3500
+Quality: 5.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: N/A
+Tags: Amazing lectures, Lots of homework, Respected
+Date: Jul 8th, 2024
+Review: Lectures were AMAZING, sometimes droned on but most of the time was very interesting to follow. OOD over summer 1 (2024) was A LOT of homework, like 20-40 hours a week after assignment 3. Grading was a bit harsh but not bad, and regrade requests are very much respected (not always fulfilled tho, obviously). Overall great prof for a hard course.
+
+
+---
+
+
+Professor: Shesh
+Course: CS3500
+Quality: 5.0 | Difficulty: 4.0
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: B- | Textbook: N/A
+Tags: Amazing lectures, Lots of homework, Accessible outside class
+Date: Jun 30th, 2024
+Review: Prof Shesh is one of my favorite CS profs! I was initially worried to take OOD but lectures were incredibly helpful. He used lots of analogies and code examples making material easy to understand. Homework was not too bad (time consuming though!), and exams were mostly on code reuse. Grading was fair. Overall enjoyed OOD much more than fundies 2.

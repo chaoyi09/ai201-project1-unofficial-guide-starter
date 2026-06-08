@@ -1,0 +1,48 @@
+﻿Source: Reddit r/NEU
+Topic: CS5100 (Foundations of AI) and CS5800 (Algorithms) professor selection
+Date: ~1 year ago
+URL: [paste the thread URL here]
+
+
+[Post] An incoming MSAI student asks for reviews to choose between professors for two courses.
+CS5100 (Foundations of AI) options: Prof. Yu (Wed evening), Prof. Tahmasebi Maraghoosh (Tue evening).
+CS5800 (Algorithms) options: Prof. Iraklis Tsekourakis (Thu evening), Prof. Mahsa Derakhshan (Tue/Fri afternoon).
+
+
+[Comment] For CS5800 Algorithms, multiple students recommend Prof. Iraklis Tsekourakis, saying they have heard he is good and are planning to pick him.
+
+
+[Comment] Students were unsure about the CS5100 AI professors (Prof. Yu, Prof. Tahmasebi); no one in the thread had firsthand experience to share.
+
+
+[Comment] A later student asked whether Prof. Sarita Singh is a good choice for CS5100 (AI), specifically about difficulty and grading breakdown, but the question received no answer.
+
+
+Source: Reddit r/NEU
+Topic: CS5800 (Algorithms) professor comparison for Spring 2026
+Date: ~6 months ago
+URL: [paste the thread URL here]
+
+
+[Post] A student asks for honest insights (exam styles, grading) to choose an Algorithms professor for Spring 2026. Options: Iraklis Tsekourakis, Aloupis (online), Mahsa Derakhshan, Ravi Sundaram.
+
+
+[Comment] On Prof. Mahsa Derakhshan: A student who took the course with her recommends her. Exams were fair, she curved the first exam, and exams resembled the practice questions she provided with no trick questions. She focuses on checking understanding of key concepts. The course is challenging regardless of professor; the reviewer suggests reading the textbook over winter break. Her course had 2 exams: one midterm and one final.
+
+
+[Comment] On Prof. Aloupis: One student strongly warns against taking it with Aloupis. Another student says Aloupis has fantastic content but it comes with a very heavy workload and extremely hard tests. You learn a lot but it is taxing and potentially hard on your GPA.
+
+
+[Comment] Quick comparison from one student: Take Mahsa if you want an easier A with fewer exams; take Iraklis if you want to learn the material more deeply, but expect more exams.
+
+
+[Comment] On Prof. Iraklis Tsekourakis (mixed opinions):
+- One student says his exams are very hard: 100 points across only 4 problems, so misunderstanding one problem costs 20-30 points. They believe many students failed.
+- Another student found it a pretty good and fairly easy class, as long as you do all the homework you should have no issue with the exams.
+- A TA who assisted Iraklis for 2 semesters says there are 3 exams that are very easy and based entirely on class slides and assignments. Students from non-technical backgrounds tend to struggle, but anyone with a decent grasp of undergrad data structures and algorithms should be prepared. The TA confirms exams reward studying the class slides well and understanding the concepts, and advises not missing classes.
+
+
+[Comment] Practical note: Starting Fall 2026, Khoury plans to introduce a prerequisite course for Algorithms. Algos may give a placement exam at the start of the semester; students who fail would be enrolled in the new prerequisite course instead (not guaranteed to happen).
+
+
+[Comment] A student suggests TRACE (course evaluations) as another source of information.

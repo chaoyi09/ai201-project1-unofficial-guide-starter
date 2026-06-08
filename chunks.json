@@ -1,0 +1,191 @@
+[
+  {
+    "text": "Source: Reddit r/NEU\nTopic: CS5100 (Foundations of AI) and CS5800 (Algorithms) professor selection\nDate: ~1 year ago\nURL: [paste the thread URL here]\n\n[Post] An incoming MSAI student asks for reviews to choose between professors for two courses.\nCS5100 (Foundations of AI) options: Prof. Yu (Wed even",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": "Yu",
+    "course": "CS5100",
+    "chunk_index": 0
+  },
+  {
+    "text": "00 (Foundations of AI) options: Prof. Yu (Wed evening), Prof. Tahmasebi Maraghoosh (Tue evening).\nCS5800 (Algorithms) options: Prof. Iraklis Tsekourakis (Thu evening), Prof. Mahsa Derakhshan (Tue/Fri afternoon).\n\n[Comment] For CS5800 Algorithms, multiple students recommend Prof. Iraklis Tsekourakis,",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": "Iraklis Tsekourakis",
+    "course": "CS5800",
+    "chunk_index": 1
+  },
+  {
+    "text": "iple students recommend Prof. Iraklis Tsekourakis, saying they have heard he is good and are planning to pick him.\n\n[Comment] Students were unsure about the CS5100 AI professors (Prof. Yu, Prof. Tahmasebi); no one in the thread had firsthand experience to share.\n\n[Comment] A later student asked whet",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": "Iraklis Tsekourakis",
+    "course": "CS5100",
+    "chunk_index": 2
+  },
+  {
+    "text": "ce to share.\n\n[Comment] A later student asked whether Prof. Sarita Singh is a good choice for CS5100 (AI), specifically about difficulty and grading breakdown, but the question received no answer.\n\nSource: Reddit r/NEU\nTopic: CS5800 (Algorithms) professor comparison for Spring 2026\nDate: ~6 months a",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": null,
+    "course": "CS5100",
+    "chunk_index": 3
+  },
+  {
+    "text": "essor comparison for Spring 2026\nDate: ~6 months ago\nURL: [paste the thread URL here]\n\n[Post] A student asks for honest insights (exam styles, grading) to choose an Algorithms professor for Spring 2026. Options: Iraklis Tsekourakis, Aloupis (online), Mahsa Derakhshan, Ravi Sundaram.\n\n[Comment] On Pr",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": "Iraklis Tsekourakis",
+    "course": null,
+    "chunk_index": 4
+  },
+  {
+    "text": "Mahsa Derakhshan, Ravi Sundaram.\n\n[Comment] On Prof. Mahsa Derakhshan: A student who took the course with her recommends her. Exams were fair, she curved the first exam, and exams resembled the practice questions she provided with no trick questions. She focuses on checking understanding of key con",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": "Mahsa Derakhshan",
+    "course": null,
+    "chunk_index": 5
+  },
+  {
+    "text": ". She focuses on checking understanding of key concepts. The course is challenging regardless of professor; the reviewer suggests reading the textbook over winter break. Her course had 2 exams: one midterm and one final.\n\n[Comment] On Prof. Aloupis: One student strongly warns against taking it with",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": "Aloupis",
+    "course": null,
+    "chunk_index": 6
+  },
+  {
+    "text": "One student strongly warns against taking it with Aloupis. Another student says Aloupis has fantastic content but it comes with a very heavy workload and extremely hard tests. You learn a lot but it is taxing and potentially hard on your GPA.\n\n[Comment] Quick comparison from one student: Take Mahsa",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": "Mahsa",
+    "course": null,
+    "chunk_index": 7
+  },
+  {
+    "text": "nt] Quick comparison from one student: Take Mahsa if you want an easier A with fewer exams; take Iraklis if you want to learn the material more deeply, but expect more exams.\n\n[Comment] On Prof. Iraklis Tsekourakis (mixed opinions):\n- One student says his exams are very hard: 100 points across only",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": "Iraklis Tsekourakis",
+    "course": null,
+    "chunk_index": 8
+  },
+  {
+    "text": "s his exams are very hard: 100 points across only 4 problems, so misunderstanding one problem costs 20-30 points. They believe many students failed.\n- Another student found it a pretty good and fairly easy class, as long as you do all the homework you should have no issue with the exams.\n- A TA who",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": null,
+    "course": null,
+    "chunk_index": 9
+  },
+  {
+    "text": "u should have no issue with the exams.\n- A TA who assisted Iraklis for 2 semesters says there are 3 exams that are very easy and based entirely on class slides and assignments. Students from non-technical backgrounds tend to struggle, but anyone with a decent grasp of undergrad data structures and a",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": "Iraklis",
+    "course": null,
+    "chunk_index": 10
+  },
+  {
+    "text": "a decent grasp of undergrad data structures and algorithms should be prepared. The TA confirms exams reward studying the class slides well and understanding the concepts, and advises not missing classes.\n\n[Comment] Practical note: Starting Fall 2026, Khoury plans to introduce a prerequisite course",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": null,
+    "course": null,
+    "chunk_index": 11
+  },
+  {
+    "text": ", Khoury plans to introduce a prerequisite course for Algorithms. Algos may give a placement exam at the start of the semester; students who fail would be enrolled in the new prerequisite course instead (not guaranteed to happen).\n\n[Comment] A student suggests TRACE (course evaluations) as another s",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": null,
+    "course": null,
+    "chunk_index": 12
+  },
+  {
+    "text": "t suggests TRACE (course evaluations) as another source of information.",
+    "source": "reddit_neu_cs5500_thread.txt",
+    "professor": null,
+    "course": null,
+    "chunk_index": 13
+  },
+  {
+    "text": "Professor: Shesh\nCourse: CS3100\n\nDate: Apr 21st, 2026\nReview: Lectures he taught never reflected the actual exams and the grading criteria sucks. Homework doesn't reflect exams either and the course is extremely lecture heavy.\n\nProfessor: Shesh\nCourse: CS3100\n\nDate: Apr 15th, 2026\nReview: Professor",
+    "source": "rmp_smith_cs5800.txt",
+    "professor": "Shesh",
+    "course": "CS3100",
+    "chunk_index": 0
+  },
+  {
+    "text": "e: CS3100\n\nDate: Apr 15th, 2026\nReview: Professor Shesh is a really nice professor. He is highly accessible and considerate to students. However, since this is the first time CS 3100 is taught, I felt the course design was rough around the edges. My rating for the course is nice professor, unpolishe",
+    "source": "rmp_smith_cs5800.txt",
+    "professor": "Shesh",
+    "course": "CS3100",
+    "chunk_index": 1
+  },
+  {
+    "text": "rating for the course is nice professor, unpolished syllabus.\n\nProfessor: Shesh\nCourse: CS5010\n\nDate: Dec 19th, 2025\nReview: I do not recommend this professor. He does not respond to student emails, which makes communication very difficult. Grading is extremely strict, and doubts are not always expl",
+    "source": "rmp_smith_cs5800.txt",
+    "professor": "Shesh",
+    "course": "CS5010",
+    "chunk_index": 2
+  },
+  {
+    "text": "s extremely strict, and doubts are not always explained clearly. There have also been instances of arriving late to class. Consider another professor who is more responsive and supportive.\n\nProfessor: Shesh\nCourse: CS3500\n\nDate: Jun 17th, 2025\nReview: Professor Shesh is an extremely good professor,",
+    "source": "rmp_smith_cs5800.txt",
+    "professor": "Shesh",
+    "course": "CS3500",
+    "chunk_index": 3
+  },
+  {
+    "text": ": Professor Shesh is an extremely good professor, he teaches from the heart, he's very strict and professional but one of the most reasonable professors I've ever seen. For the exam, he doesn't curve but adds points based on what the entire class struggled in, he gives extra late days and understand",
+    "source": "rmp_smith_cs5800.txt",
+    "professor": "Shesh",
+    "course": null,
+    "chunk_index": 4
+  },
+  {
+    "text": "uggled in, he gives extra late days and understands circumstances.This course's very hard but he helps\n\nProfessor: Shesh\nCourse: CS3500\n\nDate: Jun 16th, 2025\nReview: PREPARE YOURSELF TO TAKE THIS COURSE SERIOUSLY. This will be the hardest course you take in your schedule. Take with a better professo",
+    "source": "rmp_smith_cs5800.txt",
+    "professor": "Shesh",
+    "course": "CS3500",
+    "chunk_index": 5
+  },
+  {
+    "text": "take in your schedule. Take with a better professor if you can.\n\nProfessor: Shesh\nCourse: CS5010\n\nDate: Dec 19th, 2024\nReview: His lectures are nice but his assignment grading is weird. More than for design flaws, points were mostly deducted for not including certain things in submission. Sometimes",
+    "source": "rmp_smith_cs5800.txt",
+    "professor": "Shesh",
+    "course": "CS5010",
+    "chunk_index": 6
+  },
+  {
+    "text": "including certain things in submission. Sometimes he expects you to have done some things without explicitly mentioning in assignments.\n\nProfessor: Shesh\nCourse: CS5010\n\nDate: Nov 21st, 2024\nReview: TAs are not supervised properly.\n\nProfessor: Shesh\nCourse: CS5010\n\nDate: Nov 19th, 2024\nReview: He ha",
+    "source": "rmp_smith_cs5800.txt",
+    "professor": "Shesh",
+    "course": "CS5010",
+    "chunk_index": 7
+  },
+  {
+    "text": "Course: CS5010\n\nDate: Nov 19th, 2024\nReview: He has designed the course in such a way that you make a lot of mistakes but also end up learning well from them. The problem is that the grading scheme has been designed to have minimal room for error. Those same mistakes will bring your grade down a lot",
+    "source": "rmp_smith_cs5800.txt",
+    "professor": null,
+    "course": "CS5010",
+    "chunk_index": 8
+  },
+  {
+    "text": "ose same mistakes will bring your grade down a lot. For a design course, this course isn't designed very well.\n\nProfessor: Shesh\nCourse: CS3500\n\nDate: Jul 8th, 2024\nReview: Lectures were AMAZING, sometimes droned on but most of the time was very interesting to follow. OOD over summer 1 (2024) was A",
+    "source": "rmp_smith_cs5800.txt",
+    "professor": "Shesh",
+    "course": "CS3500",
+    "chunk_index": 9
+  },
+  {
+    "text": "resting to follow. OOD over summer 1 (2024) was A LOT of homework, like 20-40 hours a week after assignment 3. Grading was a bit harsh but not bad, and regrade requests are very much respected (not always fulfilled tho, obviously). Overall great prof for a hard course.\n\nProfessor: Shesh\nCourse: CS35",
+    "source": "rmp_smith_cs5800.txt",
+    "professor": "Shesh",
+    "course": null,
+    "chunk_index": 10
+  },
+  {
+    "text": "for a hard course.\n\nProfessor: Shesh\nCourse: CS3500\n\nDate: Jun 30th, 2024\nReview: Prof Shesh is one of my favorite CS profs! I was initially worried to take OOD but lectures were incredibly helpful. He used lots of analogies and code examples making material easy to understand. Homework was not too",
+    "source": "rmp_smith_cs5800.txt",
+    "professor": "Shesh",
+    "course": "CS3500",
+    "chunk_index": 11
+  },
+  {
+    "text": "material easy to understand. Homework was not too bad (time consuming though!), and exams were mostly on code reuse. Grading was fair. Overall enjoyed OOD much more than fundies 2.",
+    "source": "rmp_smith_cs5800.txt",
+    "professor": null,
+    "course": null,
+    "chunk_index": 12
+  }
+]
