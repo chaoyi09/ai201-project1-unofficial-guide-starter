@@ -81,15 +81,26 @@ def answer_question(question: str) -> tuple[str, str]:
         f"Answer the question using only these excerpts. Cite source filenames."
     )
 
-    client = Groq(api_key=os.environ["GROQ_API_KEY"])
-    completion = client.chat.completions.create(
-        model=GROQ_MODEL,
-        temperature=0.1,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_message},
-        ],
-    )
+    # Generous timeout — Groq's chat endpoint can take 10–30s end-to-end on
+    # slower transcontinental links; default httpx timeout is too tight.
+    client = Groq(api_key=os.environ["GROQ_API_KEY"], timeout=120.0, max_retries=2)
+    try:
+        completion = client.chat.completions.create(
+            model=GROQ_MODEL,
+            temperature=0.1,
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": user_message},
+            ],
+        )
+    except Exception as e:
+        return (
+            f"[Groq API error: {type(e).__name__}] {e}\n\n"
+            "The retrieval step succeeded — see the Sources panel — but the "
+            "language model call failed. This is usually a transient network "
+            "issue; please retry the question.",
+            _format_sources(hits),
+        )
     answer = completion.choices[0].message.content.strip()
     return answer, _format_sources(hits)
 
