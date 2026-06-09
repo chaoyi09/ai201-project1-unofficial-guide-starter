@@ -88,7 +88,7 @@ Multilingual support: NEU's student body includes many international students wh
 ---
 
 ## Architecture
-
+```
 ┌─────────────────────────────────────────────────────────────────┐
 │                        RAG PIPELINE                             │
 └─────────────────────────────────────────────────────────────────┘
@@ -125,7 +125,7 @@ Multilingual support: NEU's student body includes many international students wh
                           │  source document in response │
                           │  Interface: Gradio web UI    │
                           └──────────────────────────────┘
-
+```
 ---
 
 ## AI Tool Plan
